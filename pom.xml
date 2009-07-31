@@ -55,7 +55,7 @@
             </snapshots>
         </repository>
         <repository>
-            <id>chrissearle</id>
+            <id>chrissearle-snapshots</id>
             <url>http://dev.chrissearle.net/nexus/content/groups/public-snapshots</url>
             <snapshots>
                 <enabled>true</enabled>
@@ -72,7 +72,7 @@
             </snapshots>
         </pluginRepository>
         <pluginRepository>
-            <id>snapshots</id>
+            <id>chrissearle-snapshots</id>
             <url>http://dev.chrissearle.net/nexus/content/groups/public-snapshots</url>
             <snapshots>
                 <enabled>true</enabled>
@@ -86,7 +86,7 @@
             <url>http://dev.chrissearle.net/nexus/content/repositories/chrissearle-releases</url>
         </repository>
         <snapshotRepository>
-            <id>chrissearle</id>
+            <id>chrissearle-snapshots</id>
             <url>http://dev.chrissearle.net/nexus/content/repositories/chrissearle-snapshots</url>
         </snapshotRepository>
     </distributionManagement>
