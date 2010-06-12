@@ -5,7 +5,7 @@
     <artifactId>maven</artifactId>
     <packaging>pom</packaging>
     <name>Root POM</name>
-    <version>18-SNAPSHOT</version>
+    <version>18</version>
 
     <description>Root maven pom</description>
 
